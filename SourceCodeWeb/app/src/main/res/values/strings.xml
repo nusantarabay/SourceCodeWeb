@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Source Code Web</string>
+    <string-array name="spin">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
